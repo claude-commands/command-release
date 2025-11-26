@@ -14,7 +14,7 @@ ln -s <clone-path>/command-release/release.md ~/.claude/commands/release.md
 
 ## Usage
 
-```
+```text
 /release           # Auto-detect bump type from commits
 /release patch     # Bug fixes only (1.0.0 → 1.0.1)
 /release minor     # New features (1.0.0 → 1.1.0)
