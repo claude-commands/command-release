@@ -1,7 +1,7 @@
 ---
 argument-hint: "[major|minor|patch|version]"
 description: "Prepare a release with version bump and changelog"
-model: claude-sonnet-4-20250514
+model: claude-opus-4-5-20251101
 allowed-tools: ["Bash", "Read", "Write", "Edit", "Glob", "Grep", "AskUserQuestion"]
 ---
 
